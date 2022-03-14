@@ -5,10 +5,10 @@ Playing with Realtor.com & Beautiful soup to get some data from the website, nee
 
 ## install
 
-`git clone ...'
+`git clone ...`
 
-'pip3 install -r requirements.txt'
+`pip3 install -r requirements.txt`
 
-'python3 bot.py'
+`python3 bot.py`
 
 
