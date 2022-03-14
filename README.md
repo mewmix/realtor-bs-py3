@@ -7,6 +7,8 @@ Playing with Realtor.com & Beautiful soup to get some data from the website, nee
 
 `git clone https://github.com/mewmix/realtor-bs-py3`
 
+`cd realtor-bs-py3`
+
 `pip3 install -r requirements.txt`
 
 `python3 bot.py`
