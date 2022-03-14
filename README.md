@@ -5,7 +5,7 @@ Playing with Realtor.com & Beautiful soup to get some data from the website, nee
 
 ## install
 
-`git clone ...`
+`git clone https://github.com/mewmix/realtor-bs-py3`
 
 `pip3 install -r requirements.txt`
 
